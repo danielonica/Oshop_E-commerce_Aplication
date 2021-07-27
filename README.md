@@ -1,3 +1,8 @@
+#Content
+This website was successfully created using angular
+It's based on 'Udemy" course from Mosh Hamedani(many thanks)!
+
+
 # Oshop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
