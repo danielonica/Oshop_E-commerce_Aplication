@@ -1,0 +1,10 @@
+.thumbnail {
+    width:80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.btn-clear {
+    background-color:  #B21212;
+    font-weight: bold;
+
+}
